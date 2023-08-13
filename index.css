@@ -1,0 +1,22 @@
+
+
+img {
+    width: 400px;
+    height: 200px;
+}
+
+.center {
+    text-align: center;
+}
+
+.container {
+    padding: 0px 60px;
+}
+
+.acucar {
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    margin: auto;
+
+}
